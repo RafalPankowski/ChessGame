@@ -1,0 +1,15 @@
+C:\_Moje Dane\_Lectures\Animacje i gry komputerowe\2023zima\Chess\Chess\bin\Debug\Chess.exe.config
+C:\_Moje Dane\_Lectures\Animacje i gry komputerowe\2023zima\Chess\Chess\bin\Debug\Chess.exe
+C:\_Moje Dane\_Lectures\Animacje i gry komputerowe\2023zima\Chess\Chess\bin\Debug\Chess.pdb
+C:\_Moje Dane\_Lectures\Animacje i gry komputerowe\2023zima\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\_Moje Dane\_Lectures\Animacje i gry komputerowe\2023zima\Chess\Chess\obj\Debug\Chess.csproj.SuggestedBindingRedirects.cache
+C:\_Moje Dane\_Lectures\Animacje i gry komputerowe\2023zima\Chess\Chess\obj\Debug\Chess.Form1.resources
+C:\_Moje Dane\_Lectures\Animacje i gry komputerowe\2023zima\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\_Moje Dane\_Lectures\Animacje i gry komputerowe\2023zima\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\_Moje Dane\_Lectures\Animacje i gry komputerowe\2023zima\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\_Moje Dane\_Lectures\Animacje i gry komputerowe\2023zima\Chess\Chess\obj\Debug\Chess.exe
+C:\_Moje Dane\_Lectures\Animacje i gry komputerowe\2023zima\Chess\Chess\obj\Debug\Chess.pdb
+C:\_Moje Dane\_Lectures\Animacje i gry komputerowe\2023zima\Chess\Chess\obj\Debug\Chess.Board.resources
+C:\Users\rafal\Desktop\sem1\AiG\Chess_30_11\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\rafal\Desktop\sem1\AiG\Chess_30_11\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\rafal\Desktop\sem1\AiG\Chess_30_11\Chess\Chess\obj\Debug\Chess.pdb
